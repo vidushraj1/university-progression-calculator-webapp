@@ -35,7 +35,6 @@ The application operated in two distinct modes:
 The goal of this refactoring was to address the limitations of the original application (e.g., single-session data, non-interactive CLI, rigid structure) and re-engineer it as a professional, multi-user, and scalable web service.
 
 **Live Web Application:** [https://YOUR_USERNAME.github.io/YOUR_REPO_NAME/](https://vidushrajselvaraj19.github.io/university-progression-app/) 
-*(Note: Replace with your actual GitHub Pages URL after deployment)*
 
 ### New Features & Improvements
 
